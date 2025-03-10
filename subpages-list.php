@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Subpages List
- * Description:       Fetches child pages or posts of the current page (if any)
+ * Description:       Fetches child pages of the current page (if any).
  * Version:           0.1.0
  * Requires at least: 6.7
  * Requires PHP:      7.4
