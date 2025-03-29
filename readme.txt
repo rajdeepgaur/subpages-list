@@ -1,5 +1,5 @@
 === Subpages List Block ===
-Contributors: yourusername  
+Contributors: rajdeep95   
 Tags: subpages, navigation, Gutenberg block, WordPress block  
 Requires at least: 6.0  
 Tested up to: 6.5  
