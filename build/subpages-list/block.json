@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "title": "Subpages List",
   "category": "widgets",
-  "icon": "smiley",
+  "icon": "menu",
   "description": "Fetches child pages of the current page (if any).",
   "example": {},
   "attributes": {
@@ -32,8 +32,6 @@
   },
   "textdomain": "subpages-list",
   "editorScript": "file:./index.js",
-  "editorStyle": "file:./index.css",
-  "style": "file:./style-index.css",
   "viewScript": "file:./view.js",
   "render": "file:./render.php"
 }
