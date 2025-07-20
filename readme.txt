@@ -38,27 +38,3 @@ No, this block is designed for **pages only** since posts do not have hierarchic
 
 = How do I style the list? =  
 You can customize the styles using CSS or block editor settings. The block automatically integrates with WordPress block styles.  
-
-== Changelog ==
-
-= 1.0.0 =
-- Initial release  
-- Added dynamic subpages query  
-- Implemented active page highlighting  
-- Improved compatibility with block attributes  
-
-== Upgrade Notice ==
-
-= 1.0.0 =
-First stable release. Safe to install.
-
-== Screenshots ==
-
-1. A preview of the Subpages List Block in the editor.  
-2. The rendered block on the frontend with active page highlighting.  
-
-== License & Credits ==
-
-This plugin is licensed under **GPL-2.0 or later**.  
-Inspired by WordPress’s native navigation system.
-
