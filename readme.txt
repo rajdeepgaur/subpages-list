@@ -17,7 +17,7 @@ This block is useful for websites that use a **hierarchical page structure**, su
 
 1. Upload the plugin folder to the `/wp-content/plugins/` directory.  
 2. Activate the plugin through the "Plugins" menu in WordPress.  
-3. Add the **Subpages List Block** in the Gutenberg editor.  
+3. Add the **Subpages List** block in the Gutenberg editor.  
 
 == Frequently Asked Questions ==
 
